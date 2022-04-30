@@ -111,7 +111,6 @@ export default {
 
 <style lang='less'>
 .product-list {
-  position: relative;
   .product-add-btn {
     position: absolute;
     right: 10px;
